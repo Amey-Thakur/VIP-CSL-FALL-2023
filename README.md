@@ -8,6 +8,7 @@
 
   - Analyzed survey data, created visualizations for the year-in-review report, and applied business analysis for actionable insights in marketing and artist engagement.
 
+
 ---
 
 <p align="center"> <b> 👉🏻 VIP - Community Service Learning @ University of Windsor 👈🏻 <b> </p>
