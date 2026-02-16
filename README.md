@@ -89,8 +89,8 @@ Essential training and compliance modules completed prior to active service:
 </div>
 
 | # | Module | Resource | Description |
-|:-:|:---|:---|:---|
-| 1 | **Orientation** | [Part 1](Content%20Modules/Pre-Orientation/Orientation%20part%201_updated%200919.pdf) &middot; [Part 2](Content%20Modules/Pre-Orientation/Orientation%20part%202_updated%200919.pdf) &middot; [Part 3](Content%20Modules/Pre-Orientation/Orientation%20part%203_updated%200919.pdf) | Comprehensive onboarding covering program ethics, safety, and community standards. |
+|:-:|:---|:---:|:---|
+| 1 | **Orientation** | [Part 1](Content%20Modules/Pre-Orientation/Orientation%20part%201_updated%200919.pdf) &mdash; [Part 2](Content%20Modules/Pre-Orientation/Orientation%20part%202_updated%200919.pdf) &mdash; [Part 3](Content%20Modules/Pre-Orientation/Orientation%20part%203_updated%200919.pdf) | Comprehensive onboarding covering program ethics, safety, and community standards. |
 | 2 | **Police Clearance** | [Clearance Info](Content%20Modules/Police%20Clearance%20Information%20&%20Additional%20Requirements) | Documentation regarding Vulnerable Sector Check requirements. |
 
 ---
@@ -99,9 +99,9 @@ Essential training and compliance modules completed prior to active service:
 Professional workshops attended to enhance career readiness and soft skills:
 
 | # | Workshop | Resources | Description |
-|:-:|:---|:---|:---|
-| 1 | [**Resume Building**](Content%20Modules/Resume) | [Writing Tips](Content%20Modules/Resume/Resume%20Writing%20Tips%20v2.pdf) &middot; [Template](Content%20Modules/Resume/Resume%20Sample%20Template.pdf) | Strategies for crafting effective professional resumes and cover letters. |
-| 2 | [**Career Workshop Guide**](Content%20Modules/Career%20Development%20Workshop) | - | Guidelines for maximizing the value of professional development sessions. |
+|:-:|:---|:---:|:---|
+| 1 | [**Resume Building**](Content%20Modules/Resume) | [Writing Tips](Content%20Modules/Resume/Resume%20Writing%20Tips%20v2.pdf) &mdash; [Template](Content%20Modules/Resume/Resume%20Sample%20Template.pdf) | Strategies for crafting effective professional resumes and cover letters. |
+| 2 | [**Career Workshop Guide**](Content%20Modules/Career%20Development%20Workshop) | &mdash; | Guidelines for maximizing the value of professional development sessions. |
 
 ---
 
