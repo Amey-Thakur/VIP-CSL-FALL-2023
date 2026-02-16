@@ -159,13 +159,16 @@ The culminating deliverables showcasing the analysis, insights, and professional
      ========================================================================================= -->
 ## Usage Guidelines
 
-This repository is openly shared to create a transparent record of experiential learning achievements.
+This repository is openly shared to support learning and knowledge exchange across the academic and community service sectors.
 
 **For Students**  
-Use these resources as examples of professional internship documentation, report structuring, and reflective writing for community service programs.
+Use these resources as examples of **professional internship documentation**, **report structuring**, and **reflective writing** for community service programs.
+
+**For Educators**  
+These materials may serve as a reference for structuring **experiential learning curriculums** and designing **data-driven community service projects**.
 
 **For Employers**  
-These materials serve as a portfolio of applied data analysis skills, demonstrating the ability to translate raw data into actionable business insights within a professional organizational context.
+This portfolio demonstrates the practical application of **data analysis skills** within a professional non-profit context, highlighting the ability to translate raw data into **actionable community insights**.
 
 ---
 
@@ -188,7 +191,7 @@ This repository and all linked content are made available under the **Creative C
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
 **Role**: Data Analyst & Outreach Assistant  
-**Program**: Voluntary Internship Program (VIP-CSL) · Fall 2023  
+**Program**: Voluntary Internship Program - Community Service Learning (VIP-CSL) · Fall 2023  
 **Institution**: [University of Windsor](https://www.uwindsor.ca), Windsor, Ontario
 
 This repository serves as a professional portfolio documenting my tenure as a Data Analyst for the VIP-CSL program. It archives the training, administrative records, and final analytical reports that define this experiential learning journey.
