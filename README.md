@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/main/university-of-windsor-logo.png" alt="University of Windsor" width="400"/>
 
   <!-- Title -->
-  # Voluntary Internship Program - Community Service Learning
+  # VIP - Community Service Learning
 
   <!-- Subtitle -->
   ### GART-1200 · Fall 2023 · Voluntary Internship Program
