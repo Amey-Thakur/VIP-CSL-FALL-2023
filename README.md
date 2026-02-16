@@ -105,6 +105,15 @@ Professional workshops attended to enhance career readiness and soft skills:
 
 ---
 
+### Timeline
+A chronological overview of the program's key milestones and deadlines:
+
+| # | Document | Description |
+|:-:|:---|:---|
+| 1 | [**VIP-CSL Timeline**](Timeline/VIP%20CSL%20F23%20Timeline.pdf) | Schedule of critical dates, deliverable deadlines, and mandatory sessions. |
+
+---
+
 <!-- =========================================================================================
                                      SUBMISSIONS SECTION
      ========================================================================================= -->
