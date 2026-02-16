@@ -72,7 +72,7 @@ Foundational administrative documents outlining the terms of engagement and prog
 
 | # | Document | Description |
 |:-:|:---|:---|
-| 1 | [**VIP-CSL Contract**](Manual%20&%20Contract/1a%20-%20Form%20-%20VIP%20CSL%20Contract%20-%20updated%20Sept%2022.doc) | Official agreement detailing roles, responsibilities, and internship hours. |
+| 1 | [**VIP-CSL Contract**](Manual%20&%20Contract/1a%20-%20Form%20-%20VIP%20CSL%20Contract%20-%20updated%20Sept%2022.pdf) | Official agreement detailing roles, responsibilities, and internship hours. |
 | 2 | [**Program Manual**](Manual%20&%20Contract/VIP%20CSL%20Manual%20S23.pdf) | Comprehensive guide to VIP-CSL policies, procedures, and student expectations. |
 | 3 | [**Role Description**](Manual%20&%20Contract/Amey%20Mahendra%20Thakur-Assistant%20for%20Outreach%20and%20Marketing.pdf) | Specific outlined duties for the "Assistant for Outreach and Marketing" position. |
 
