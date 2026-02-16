@@ -10,7 +10,7 @@
   # VIP - Community Service Learning
 
   <!-- Subtitle -->
-  ### GART-1200 · Fall 2023 · Voluntary Internship Program
+  ### Fall 2023 · Voluntary Internship Program
 
   <!-- Badges -->
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
@@ -19,7 +19,7 @@
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
   <!-- Short Description -->
-  **A comprehensive archival record of the Voluntary Internship Program (GART 1200), documenting professional contributions as a Data Analyst & Outreach Assistant within the Community Service Learning initiative.**
+  **A comprehensive archival record of the Voluntary Internship Program (VIP-CSL), documenting professional contributions as a Data Analyst & Outreach Assistant within the Community Service Learning initiative.**
 
   ---
 
@@ -35,7 +35,7 @@
      ========================================================================================= -->
 ## Overview
 
-The **Voluntary Internship Program (VIP-CSL)** at the University of Windsor is a specialized experiential learning initiative (GART-1200) designed to bridge academic study with impactful community engagement. As a **Data Analyst and Outreach Assistant**, this role focused on analyzing program participation data, visualizing engagement metrics, and developing strategic insights to enhance community outreach initiatives.
+The **Voluntary Internship Program (VIP-CSL)** at the University of Windsor is a specialized experiential learning initiative designed to bridge academic study with impactful community engagement. As a **Data Analyst and Outreach Assistant**, this role focused on analyzing program participation data, visualizing engagement metrics, and developing strategic insights to enhance community outreach initiatives.
 
 ### Role Objectives
 The internship encompassed several key professional responsibilities:
