@@ -45,7 +45,10 @@ The internship encompassed several key professional responsibilities:
 - **Professional Development**: Enhancing career readiness through structured workshops on resume building and professional networking.
 
 ### Repository Purpose
-This repository represents a curated collection of internship deliverables, training modules, administrative contracts, and final reports compiled during the Fall 2023 session. The primary motivation for archiving these materials is **to document professional growth and experiential learning achievements**.
+
+This repository represents a curated collection of internship deliverables, training modules, administrative contracts, and final reports compiled during the Fall 2023 session. The primary motivation for archiving these materials is simple yet profound: **to document professional growth and experiential learning achievements**.
+
+As I progress in my career, I recognize that these experiences remain essential for demonstrating professional competencies and community impact. This repository serves as my professional portfolio: a resource I can return to for showcasing skills, reviewing project outcomes, and verifying contributions when needed.
 
 **Why this repository exists:**
 
