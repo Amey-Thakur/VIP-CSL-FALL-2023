@@ -24,7 +24,7 @@
   ---
 
   <!-- Navigation Links -->
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Manuals & Contract](#manuals--contract) &nbsp;·&nbsp; [Preparation](#preparation-modules) &nbsp;·&nbsp; [Career Development](#career-development) &nbsp;·&nbsp; [Submissions](#final-submissions) &nbsp;·&nbsp; [Certificate](#certificate-of-completion) &nbsp;·&nbsp; [Timeline](#timeline) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Manuals & Contract](#manuals--contract) &nbsp;·&nbsp; [Preparation](#preparation-modules) &nbsp;·&nbsp; [Career Development](#career-development) &nbsp;·&nbsp; [Timeline](#timeline) &nbsp;·&nbsp; [Submissions](#final-submissions) &nbsp;·&nbsp; [Certificate](#certificate-of-completion) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -217,7 +217,7 @@ Special thanks to the **mentors** and **peers** whose encouragement, discussions
   <!-- Footer Navigation -->
   [↑ Back to Top](#vip---community-service-learning)
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Manuals & Contract](#manuals--contract) &nbsp;·&nbsp; [Preparation](#preparation-modules) &nbsp;·&nbsp; [Career Development](#career-development) &nbsp;·&nbsp; [Submissions](#final-submissions) &nbsp;·&nbsp; [Timeline](#timeline) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Manuals & Contract](#manuals--contract) &nbsp;·&nbsp; [Preparation](#preparation-modules) &nbsp;·&nbsp; [Career Development](#career-development) &nbsp;·&nbsp; [Timeline](#timeline) &nbsp;·&nbsp; [Submissions](#final-submissions) &nbsp;·&nbsp; [Certificate](#certificate-of-completion) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
