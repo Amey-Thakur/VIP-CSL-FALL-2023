@@ -1,0 +1,17 @@
+# VIP-CSL-FALL-2023 - Community Service Learning Repository
+# Professional .gitattributes for VIP-CSL scholarly archiving
+
+# Auto-normalize
+* text=auto
+
+# Text files
+*.md text eol=lf
+*.html text eol=lf
+
+# Binary files (Office & Media)
+*.pdf binary
+*.doc binary
+*.docx binary
+*.pptx binary
+*.png binary
+*.jpg binary

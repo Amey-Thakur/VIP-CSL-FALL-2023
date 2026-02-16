@@ -1,0 +1,16 @@
+# VIP-CSL-FALL-2023 - Community Service Learning Repository
+# Specialized .gitignore for VIP-CSL scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+~$*
