@@ -205,7 +205,7 @@ Sincere appreciation to **Jane Sylvester**, Applied Learning Coordinator, for he
 
 Special thanks to the **Arts Council - Windsor & Region (ACWR)** for providing an enriching internship environment. I am particularly grateful to **Maria Mediratta**, Administrative & Outreach Coordinator, for her mentorship and guidance throughout my tenure as a Data Analyst.
 
-Finally, I extend my thanks to the **mentors** and **peers** whose collaboration and support contributed significantly to the success of this project.
+Special thanks to the **mentors** and **peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
 
