@@ -15,7 +15,7 @@
   <!-- Badges -->
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   [![University](https://img.shields.io/badge/University-Windsor-005596.svg)](https://www.uwindsor.ca)
-  [![Program](https://img.shields.io/badge/Program-Community%20Service%20Learning-FFCE00.svg)](https://www.uwindsor.ca/csl/)
+  [![Program](https://img.shields.io/badge/Program-VIP--Community%20Service%20Learning-FFCE00.svg)](https://www.uwindsor.ca/careercentre/392/vip-csl-student-information)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
   <!-- Short Description -->
