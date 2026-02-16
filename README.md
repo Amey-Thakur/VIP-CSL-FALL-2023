@@ -98,10 +98,10 @@ Essential training and compliance modules completed prior to active service:
 ### Career Development
 Professional workshops attended to enhance career readiness and soft skills:
 
-| # | Workshop Resource | Description |
-|:-:|:---|:---|
-| 1 | [**Resume Building**](Content%20Modules/Resume) | Strategies for crafting effective professional resumes and cover letters. |
-| 2 | [**Career Workshop Guide**](Content%20Modules/Career%20Development%20Workshop) | Guidelines for maximizing the value of professional development sessions. |
+| # | Workshop | Resources | Description |
+|:-:|:---|:---|:---|
+| 1 | [**Resume Building**](Content%20Modules/Resume) | [Writing Tips](Content%20Modules/Resume/Resume%20Writing%20Tips%20v2.pdf) &middot; [Template](Content%20Modules/Resume/Resume%20Sample%20Template.pdf) | Strategies for crafting effective professional resumes and cover letters. |
+| 2 | [**Career Workshop Guide**](Content%20Modules/Career%20Development%20Workshop) | - | Guidelines for maximizing the value of professional development sessions. |
 
 ---
 
