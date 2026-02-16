@@ -155,18 +155,6 @@ The culminating deliverables showcasing the analysis, insights, and professional
 ---
 
 <!-- =========================================================================================
-                                     TIMELINE SECTION
-     ========================================================================================= -->
-## Timeline
-A chronological record of program milestones and deadlines for the Fall 2023 session.
-
-| # | Resource | Description |
-|:-:|:---|:---|
-| 1 | [**Fall 2023 Timeline**](Timeline/VIP%20CSL%20F23%20Timeline.pdf) | Detailed schedule of workshops, submission deadlines, and program phases. |
-
----
-
-<!-- =========================================================================================
                                      USAGE GUIDELINES
      ========================================================================================= -->
 ## Usage Guidelines
