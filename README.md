@@ -199,7 +199,13 @@ This repository serves as a professional portfolio documenting my tenure as a Da
 **Connect**: [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
-Grateful acknowledgment to the **Community Service Learning (CSL)** team at the University of Windsor for providing this opportunity to contribute to the community while developing vital professional skills.
+Grateful acknowledgment to **Dr. Rob Gordon**, President and Vice-Chancellor of the University of Windsor, for his leadership in fostering community-engaged learning initiatives that bridge academic study with impactful service.
+
+Sincere appreciation to **Jane Sylvester**, Applied Learning Coordinator, for her dedicated oversight of the VIP-CSL program and for facilitating meaningful connections between students and community partners.
+
+Special thanks to the **Arts Council - Windsor & Region (ACWR)** for providing an enriching internship environment. I am particularly grateful to **Maria Mediratta**, Administrative & Outreach Coordinator, for her mentorship and guidance throughout my tenure as a Data Analyst.
+
+Finally, I extend my thanks to the **mentors** and **peers** whose collaboration and support contributed significantly to the success of this project.
 
 ---
 
