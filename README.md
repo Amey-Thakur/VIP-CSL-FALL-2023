@@ -149,6 +149,7 @@ The culminating deliverables showcasing the analysis, insights, and professional
 </div>
 <br>
 
+> [!IMPORTANT]
 > **Official Verification**: This certificate authenticates the successful completion of the Voluntary Internship Program, validating the dedication to community service and professional development.
 
 <br>
