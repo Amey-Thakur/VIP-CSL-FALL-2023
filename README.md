@@ -149,8 +149,24 @@ The culminating deliverables showcasing the analysis, insights, and professional
 </div>
 <br>
 
-> [!IMPORTANT]
 > **Official Verification**: This certificate authenticates the successful completion of the Voluntary Internship Program, validating the dedication to community service and professional development.
+
+<br>
+
+### Worker Health and Safety Awareness
+
+**Ministry of Labour, Training and Skills Development &middot; Issued May 16, 2023**
+
+<div align="center">
+
+  [![Certificate](https://img.shields.io/badge/Certificate-Worker%20Health%20%26%20Safety-blue.svg)](Content%20Modules/Pre-Orientation/Certificate%20of%20Completion%20(Amey%20Thakur).pdf)
+
+  [**View Official Certificate (PDF)**](Content%20Modules/Pre-Orientation/Certificate%20of%20Completion%20(Amey%20Thakur).pdf)
+
+</div>
+
+> [!NOTE]
+> **Regulatory Compliance**: This credential confirms the successful completion of the mandatory **Worker Health and Safety Awareness in 4 Steps** training module. It certifies a foundational understanding of the *Occupational Health and Safety Act*, focusing on the rights and duties of workers, supervisors, and employers in preventing workplace hazards.
 
 ---
 
