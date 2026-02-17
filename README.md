@@ -141,10 +141,11 @@ The culminating deliverables showcasing the analysis, insights, and professional
                                      CERTIFICATE SECTION
      ========================================================================================= -->
 ## Certificate of Completion
+Official credentials and professional certifications documenting technical proficiency, program compliance, and successful internship completion.
 
 <div align="center">
 
-  <h3>Voluntary Internship Program (VIP-CSL)</h3>
+  <h3>VIP - Community Service Learning</h3>
   <i>University of Windsor &middot; Issued December 2023</i>
   <br><br>
 
