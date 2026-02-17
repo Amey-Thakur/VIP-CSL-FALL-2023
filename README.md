@@ -142,9 +142,11 @@ The culminating deliverables showcasing the analysis, insights, and professional
      ========================================================================================= -->
 ## Certificate of Completion
 
-**University of Windsor &middot; Issued December 2023**
-
 <div align="center">
+
+  <h3>Voluntary Internship Program (VIP-CSL)</h3>
+  <i>University of Windsor &middot; Issued December 2023</i>
+  <br><br>
 
   [![Certificate](https://img.shields.io/badge/Certificate-VIP--CSL%20Completion-FFCE00.svg)](Amey%20Mahendra%20Thakur%20F23%20VIP-CSL%20Certificate.pdf)
 
@@ -158,19 +160,20 @@ The culminating deliverables showcasing the analysis, insights, and professional
 
 <br>
 
-### Worker Health and Safety Awareness
-
-**Ministry of Labour, Training and Skills Development &middot; Issued May 16, 2023**
-
 <div align="center">
+
+  <h3>Worker Health and Safety Awareness</h3>
+  <i>Ministry of Labour, Training and Skills Development &middot; Issued May 16, 2023</i>
+  <br><br>
 
   [![Certificate](https://img.shields.io/badge/Certificate-Worker%20Health%20%26%20Safety-blue.svg)](Content%20Modules/Pre-Orientation/Certificate%20of%20Completion%20(Amey%20Thakur).pdf)
 
   <img src="Worker Health and Safety Awareness Certificate.png" width="90%" alt="Worker Health and Safety Certificate">
 
-  [**View Official Certificate (PDF)**](Content%20Modules/Pre-Orientation/Certificate%20of%20Completion%20(Amey%20Thakur).pdf)
+
 
 </div>
+<br>
 
 > [!NOTE]
 > **Regulatory Compliance**: This credential confirms the successful completion of the mandatory **Worker Health and Safety Awareness in 4 Steps** training module. It certifies a foundational understanding of the *Occupational Health and Safety Act*, focusing on the rights and duties of workers, supervisors, and employers in preventing workplace hazards.
