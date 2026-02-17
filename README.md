@@ -145,7 +145,11 @@ The culminating deliverables showcasing the analysis, insights, and professional
 **University of Windsor &middot; Issued December 2023**
 
 <div align="center">
+
+  [![Certificate](https://img.shields.io/badge/Certificate-VIP--CSL%20Completion-FFCE00.svg)](Amey%20Mahendra%20Thakur%20F23%20VIP-CSL%20Certificate.pdf)
+
   <img src="Amey%20Mahendra%20Thakur%20F23%20VIP-CSL%20Certificate.png" width="90%" alt="VIP-CSL Certificate of Completion">
+
 </div>
 <br>
 
@@ -161,6 +165,8 @@ The culminating deliverables showcasing the analysis, insights, and professional
 <div align="center">
 
   [![Certificate](https://img.shields.io/badge/Certificate-Worker%20Health%20%26%20Safety-blue.svg)](Content%20Modules/Pre-Orientation/Certificate%20of%20Completion%20(Amey%20Thakur).pdf)
+
+  <img src="Worker Health and Safety Awareness Certificate.png" width="90%" alt="Worker Health and Safety Certificate">
 
   [**View Official Certificate (PDF)**](Content%20Modules/Pre-Orientation/Certificate%20of%20Completion%20(Amey%20Thakur).pdf)
 
