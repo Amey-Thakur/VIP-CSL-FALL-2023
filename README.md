@@ -167,7 +167,7 @@ Official credentials and professional certifications documenting technical profi
   <i>Ministry of Labour, Training and Skills Development &middot; Issued May 16, 2023</i>
   <br><br>
 
-  [![Certificate](https://img.shields.io/badge/Certificate-Worker%20Health%20%26%20Safety-blue.svg)](Content%20Modules/Pre-Orientation/Certificate%20of%20Completion%20(Amey%20Thakur).pdf)
+  [![Certificate](https://img.shields.io/badge/Certificate-Worker%20Health%20%26%20Safety-blue.svg)](Content%20Modules/Pre-Orientation/Certificate%20of%20Completion%20%28Amey%20Thakur%29.pdf)
 
   <img src="Worker Health and Safety Awareness Certificate.png" width="90%" alt="Worker Health and Safety Certificate">
 
