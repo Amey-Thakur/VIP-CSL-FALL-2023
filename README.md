@@ -230,7 +230,9 @@ Grateful acknowledgment to **Dr. Rob Gordon**, President and Vice-Chancellor of 
 
 Grateful acknowledgment to **Jane Sylvester**, Applied Learning Coordinator, for her dedicated oversight of the VIP-CSL program. Her commitment to bridging the gap between academic theory and community service created a robust framework for experiential learning, facilitating meaningful connections that enriched this program.
 
-Grateful acknowledgment to the **Arts Council - Windsor & Region (ACWR)** for providing an enriching internship environment. I am particularly grateful to **Maria Mediratta**, Administrative & Outreach Coordinator, for her mentorship and guidance throughout my tenure as a Data Analyst. Her insightful feedback and collaborative approach provided a supportive environment that greatly enhanced my professional development and understanding of non-profit operations.
+Grateful acknowledgment to the **Arts Council - Windsor & Region (ACWR)** for providing an enriching and professionally stimulating internship environment. Their dedication to fostering artistic engagement and community outreach provided a robust platform for the practical application of data analysis and strategic outreach techniques within the non-profit sector.
+
+Grateful acknowledgment to **Maria Mediratta**, Administrative & Outreach Coordinator, for her exceptional mentorship and guidance throughout my tenure as a Data Analyst. Her insightful feedback, collaborative approach, and deep understanding of community engagement provided a supportive environment that greatly enhanced my professional development and my analytical understanding of non-profit operations and outreach optimization.
 
 Special thanks to the **mentors** and **peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
