@@ -10,7 +10,7 @@
   # VIP - Community Service Learning
 
   <!-- Subtitle -->
-  ### Fall 2023 · Voluntary Internship Program
+  ### **Fall 2023** · Voluntary Internship Program
 
   <!-- Badges -->
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
@@ -46,7 +46,7 @@ The internship encompassed several key professional responsibilities:
 
 ### Repository Purpose
 
-This repository represents a curated collection of internship deliverables, training modules, administrative contracts, and final reports compiled during the Fall 2023 session. The primary motivation for archiving these materials is simple yet profound: **to document professional growth and experiential learning achievements**.
+This repository represents a curated collection of internship deliverables, training modules, administrative contracts, and final reports compiled during the **Fall 2023** session. The primary motivation for archiving these materials is simple yet profound: **to document professional growth and experiential learning achievements**.
 
 As I progress in my career, I recognize that these experiences remain essential for demonstrating professional competencies and community impact. This repository serves as my professional portfolio: a resource I can return to for showcasing skills, reviewing project outcomes, and verifying contributions when needed.
 
@@ -58,7 +58,7 @@ As I progress in my career, I recognize that these experiences remain essential 
 - **Transparency**: To provide verified evidence of completion and project deliverables
 
 > [!NOTE]
-> All materials were created, compiled, and organized by me during the Fall 2023 semester as part of the VIP-CSL program requirements.
+> All materials were created, compiled, and organized by me during the **Fall 2023** semester as part of the VIP-CSL program requirements.
 
 ---
 
@@ -218,7 +218,7 @@ This repository and all linked content are made available under the **Creative C
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
 **Role**: Data Analyst & Outreach Assistant  
-**Program**: Voluntary Internship Program - Community Service Learning (VIP-CSL) · Fall 2023  
+**Program**: Voluntary Internship Program - Community Service Learning (VIP-CSL) · **Fall 2023**  
 **Institution**: [University of Windsor](https://www.uwindsor.ca), Windsor, Ontario
 
 This repository serves as a professional portfolio documenting my tenure as a Data Analyst for the VIP-CSL program. It archives the training, administrative records, and final analytical reports that define this experiential learning journey.
