@@ -228,9 +228,9 @@ This repository serves as a professional portfolio documenting my tenure as a Da
 ### Acknowledgments
 Grateful acknowledgment to **Dr. Rob Gordon**, President and Vice-Chancellor of the University of Windsor, for his leadership in fostering community-engaged learning initiatives that bridge academic study with impactful service.
 
-Sincere appreciation to **Jane Sylvester**, Applied Learning Coordinator, for her dedicated oversight of the VIP-CSL program. Her commitment to bridging the gap between academic theory and community service created a robust framework for experiential learning, facilitating meaningful connections that enriched this program.
+Grateful acknowledgment to **Jane Sylvester**, Applied Learning Coordinator, for her dedicated oversight of the VIP-CSL program. Her commitment to bridging the gap between academic theory and community service created a robust framework for experiential learning, facilitating meaningful connections that enriched this program.
 
-Special thanks to the **Arts Council - Windsor & Region (ACWR)** for providing an enriching internship environment. I am particularly grateful to **Maria Mediratta**, Administrative & Outreach Coordinator, for her mentorship and guidance throughout my tenure as a Data Analyst. Her insightful feedback and collaborative approach provided a supportive environment that greatly enhanced my professional development and understanding of non-profit operations.
+Grateful acknowledgment to the **Arts Council - Windsor & Region (ACWR)** for providing an enriching internship environment. I am particularly grateful to **Maria Mediratta**, Administrative & Outreach Coordinator, for her mentorship and guidance throughout my tenure as a Data Analyst. Her insightful feedback and collaborative approach provided a supportive environment that greatly enhanced my professional development and understanding of non-profit operations.
 
 Special thanks to the **mentors** and **peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
