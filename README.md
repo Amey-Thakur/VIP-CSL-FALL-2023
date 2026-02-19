@@ -228,7 +228,7 @@ This repository serves as a professional portfolio documenting my tenure as a Da
 ### Acknowledgments
 Grateful acknowledgment to **Dr. Rob Gordon**, President and Vice-Chancellor of the University of Windsor, for his leadership in fostering community-engaged learning initiatives that bridge academic study with impactful service.
 
-Grateful acknowledgment to **Jane Sylvester**, Applied Learning Coordinator, for her dedicated oversight of the VIP-CSL program. Her commitment to bridging the gap between academic theory and community service created a robust framework for experiential learning, facilitating meaningful connections that enriched this program.
+Grateful acknowledgment to **Jane Sylvester**, Applied Learning Coordinator, for her dedicated oversight and coordination of the VIP-CSL program. Her commitment to bridging the gap between academic theory and community service created a robust framework for experiential learning, facilitating the meaningful connections and professional milestones that enriched this program. Her guidance in navigating the complexities of community engagement and professional documentation was instrumental in the successful completion of this internship journey.
 
 Grateful acknowledgment to the **Arts Council - Windsor & Region (ACWR)** for providing an enriching and professionally stimulating internship environment. Their dedication to fostering artistic engagement and community outreach provided a robust platform for the practical application of data analysis and strategic outreach techniques within the non-profit sector.
 
