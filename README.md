@@ -52,10 +52,10 @@ As I progress in my career, I recognize that these experiences remain essential 
 
 **Why this repository exists:**
 
-- **Professional Documentation**: To authentically document the scope and impact of my contributions as a Data Analyst
-- **Knowledge Preservation**: To maintain an organized record of training modules and career development resources
-- **Experiential Portfolio**: To showcase the practical application of data analysis skills in a community service context
-- **Transparency**: To provide verified evidence of completion and project deliverables
+- **Professional Documentation**: To authentically document the scope and impact of my contributions as a Data Analyst.
+- **Knowledge Preservation**: To maintain an organized record of training modules and career development resources.
+- **Experiential Portfolio**: To showcase the practical application of data analysis skills in a community service context.
+- **Transparency**: To provide verified evidence of completion and project deliverables.
 
 > [!NOTE]
 > All materials were created, compiled, and organized by me during the **Fall 2023** semester as part of the VIP-CSL program requirements.
@@ -256,8 +256,8 @@ Special thanks to the **mentors** and **peers** whose encouragement, discussions
 
   ### 🎓 [MEng Computer Engineering Repository](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING)
 
-  **Computer Engineering (M.Eng) - University of Windsor**
+  **Computer Engineering (M.Eng.) - University of Windsor**
 
-  *An archival record of **graduate-level research** and **advanced engineering coursework**.*
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
 </div>
